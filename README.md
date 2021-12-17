@@ -1,3 +1,6 @@
+<a href="https://www.instagram.com/jaehyeong814/" target="_blank">
+  <img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=instagram&logoColor=#E4405F"/>
+</a>
 - 👋 Hi, I’m @duck-bong
 - 👀 I’m interested in Play game, game analysis
 - 🌱 I’m currently learning Bigdata / AI / Machine Learning / Deep Learning
@@ -18,7 +21,3 @@
 duck-b/duck-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<!--<a href="https://www.instagram.com/jaehyeong814/" target="_blank">
-  <img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=instagram&logoColor=#E4405F"/>
-</a>-->
