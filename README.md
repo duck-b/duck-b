@@ -1,10 +1,8 @@
-<a href="https://www.instagram.com/jaehyeong814/" target="_blank">
-  <img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=instagram&logoColor=#E4405F"/>
-</a>
-- 👋 Hi, I’m @duck-bong
-- 👀 I’m interested in Play game, game analysis
-- 🌱 I’m currently learning Bigdata / AI / Machine Learning / Deep Learning
-- 📫 How to reach me 'fdeer814@naver.com'
+- 👋 Hi, I’m @duck-bong<br />
+- 👀 I’m interested in Play game, game analysis<br />
+- 🌱 I’m currently learning Bigdata / AI / Machine Learning / Deep Learning<br />
+- 📫 How to reach me 'fdeer814@naver.com' or 'https://www.instagram.com/jaehyeong814/'<br />
+<hr />
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
