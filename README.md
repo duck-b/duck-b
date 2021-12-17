@@ -4,7 +4,7 @@
 - 📫 How to reach me 'fdeer814@naver.com'<br />
 <hr />
 <h3 align="center"><b>💻 Tech Stack</b></h3>
-</br>
+<br />
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
+<hr/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duck-b&show_icons=true&theme=radical)
 <!---
 duck-b/duck-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
