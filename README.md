@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @duck-bong<br />
 - 👀 I’m interested in Play game, game analysis<br />
 - 🌱 I’m currently learning Bigdata / AI / Machine Learning / Deep Learning<br />
-- 📫 How to reach me 'fdeer814@naver.com' or 'https://www.instagram.com/jaehyeong814/'<br />
+- 📫 How to reach me 'fdeer814@naver.com' or <a href="https://www.instagram.com/jaehyeong814/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>''<br />
 <hr />
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
