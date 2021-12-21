@@ -19,9 +19,15 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp 
+</p>
+<hr />
+<h3 align="center"><b>💻 Tech Stack</b></h3>
+<br />
+<p align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
+</p>
 <hr/>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
