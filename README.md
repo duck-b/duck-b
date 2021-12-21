@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 <hr/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duck-b)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DuckBong)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 duck-b/duck-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
