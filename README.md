@@ -1,3 +1,4 @@
+수정중.
 - 👋 Hi, I’m @duck-bong(<a href="https://www.instagram.com/jaehyeong814/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>)<br />
 - 👀 I’m interested in Play game, game analysis<br />
 - 🌱 I’m currently learning Bigdata / AI / Machine Learning / Deep Learning<br />
