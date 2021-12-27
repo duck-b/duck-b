@@ -1,12 +1,10 @@
 수정중.
-- 👋 Hi, I’m @duck-bong(<a href="https://www.instagram.com/jaehyeong814/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>)<br />
-- 👀 I’m interested in Play game, game analysis<br />
-- 🌱 I’m currently learning Bigdata / AI / Machine Learning / Deep Learning<br />
-- 📫 How to reach me 'fdeer814@naver.com'<br />
+인스타그램 : <a href="https://www.instagram.com/jaehyeong814/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br />
+Bigdata / AI / Machine Learning / Deep Learning 공부중...<br />
 <hr />
-<h3 align="center"><b>💻 Tech Stack</b></h3>
+<h3 align="left"><b>💻 Tech Stack 💻</b></h3>
 <br />
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
@@ -21,9 +19,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp 
 </p>
 <hr />
-<h3 align="center"><b>💻 Tech Stack</b></h3>
+<h3 align="left"><b>💻 Tech Stack 💻</b></h3>
 <br />
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
