@@ -1,4 +1,4 @@
-수정중.
+수정중.<br/>
 인스타그램 : <a href="https://www.instagram.com/jaehyeong814/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br />
 Bigdata / AI / Machine Learning / Deep Learning 공부중...<br />
 <hr />
