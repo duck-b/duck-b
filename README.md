@@ -19,8 +19,6 @@ Bigdata / AI / Machine Learning / Deep Learning 공부중...<br />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp 
 </p>
 <hr />
-<h3 align="left"><b>💻 Tech Stack 💻</b></h3>
-<br />
 <p align="left">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a> &nbsp
