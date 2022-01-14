@@ -25,7 +25,7 @@ Bigdata / AI / Machine Learning / Deep Learning 공부중...<br />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> &nbsp 
 </p>
 <hr/>
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center">🧑‍💻 My Github Stats 🧑‍💻</h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duck-b&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
